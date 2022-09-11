@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Bingvanrooij/My-Favortie-Movie">
-    <img src="img/japen.png" alt="Logo" width="80" height="80">
+    <img src="img/japan.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">My Favorite Movie</h3>
