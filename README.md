@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Bingvanrooij/My-Favortie-Movie">
+  <a href="Japan.png">
     <img src="img/japan.png" alt="Logo" width="80" height="80">
   </a>
 
