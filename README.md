@@ -24,7 +24,7 @@
 
 Opdracht C van Zuyd: `Bingvanrooij`, `my-favorite-movie`,`Bing.vanrooij@icloud.com`, 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -43,7 +43,7 @@ Bing van Rooij - Bing.vanrooij@icloud.com
 
 Project Link: [https://github.com/bingvanrooij/My-Favortie-Movie](https://github.com/bingvanrooij/My-Favortie-Movie)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
